@@ -4,7 +4,7 @@ import { RamenImmersion } from "@/components/sections/ramen-immersion";
 import { Feast } from "@/components/sections/feast";
 import { WhyRedOscar } from "@/components/sections/why-red-oscar";
 import { BrandStory } from "@/components/sections/brand-story";
-import { VisitCTA } from "@/components/sections/visit-cta";
+import { VisitSection } from "@/components/sections/visit-section";
 
 export default function Home() {
   return (
@@ -19,7 +19,7 @@ export default function Home() {
       </div>
       <WhyRedOscar />
       <BrandStory />
-      <VisitCTA />
+      <VisitSection />
     </>
   );
 }

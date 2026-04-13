@@ -67,7 +67,7 @@ export function MobileNav({ isOpen, onClose }: MobileNavProps) {
               <Link href="/#feast" onClick={onClose} className="text-2xl font-light text-foreground/80 hover:text-brand transition-colors">
                 Feast
               </Link>
-              <Link href="/visit" onClick={onClose} className="text-2xl font-light text-foreground/80 hover:text-brand transition-colors">
+              <Link href="/#visit" onClick={onClose} className="text-2xl font-light text-foreground/80 hover:text-brand transition-colors">
                 Visit
               </Link>
             </nav>

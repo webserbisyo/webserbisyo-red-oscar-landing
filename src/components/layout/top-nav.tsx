@@ -60,7 +60,7 @@ export function TopNav() {
             <Link href="/#feast" className="text-sm font-medium text-foreground/80 hover:text-brand transition-colors">
               Feast
             </Link>
-            <Link href="/visit" className="text-sm font-medium text-foreground/80 hover:text-brand transition-colors">
+            <Link href="/#visit" className="text-sm font-medium text-foreground/80 hover:text-brand transition-colors">
               Visit
             </Link>
           </nav>
